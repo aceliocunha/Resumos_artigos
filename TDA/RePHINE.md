@@ -55,4 +55,4 @@ Os diagramas RePHINE podem ser usados em conjunto com **Redes Neurais Gráficas 
 
 ## 🎯 Conclusão
 
-O artigo argumenta que a Homologia Persistente padrão em grafos tem limitações. Ele propõe o **RePHINE**, um método que aprimora a PH baseada em cores de aresta, adicionando informações de cor de vértice e o conceito de "buracos faltantes". O RePHINE é **teoricamente e experimentalmente mais expressivo** do que as abordagens baseadas em cores isoladas, além de ser invariante a isomorfismo, tornando-o uma ferramenta mais robusta para representação de grafos, especialmente quando combinado com GNNs.
+O artigo argumenta que a Homologia Persistente padrão em grafos tem limitações. Ele propõe o **RePHINE**, um método que aprimora a PH baseada em cores de aresta, adicionando informações de cor de vértice e o conceito de buracos faltantes. O RePHINE é **teoricamente e experimentalmente mais expressivo** do que as abordagens baseadas em cores isoladas, além de ser invariante a isomorfismo, tornando-o uma ferramenta mais robusta para representação de grafos, especialmente quando combinado com GNNs.
