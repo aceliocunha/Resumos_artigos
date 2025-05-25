@@ -1,5 +1,5 @@
 # Resumo do Artigo: Going beyond persistent homology using persistent homology
-#Por Johanna Emilia Immonen, Amauri H Souza, and Vikas Garg
+Autores do artigo: Johanna Emilia Immonen, Amauri H Souza, and Vikas Garg
 ---
 
 ## 📄 Introdução à Homologia Persistente (PH) em Grafos
